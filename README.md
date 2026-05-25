@@ -1,5 +1,5 @@
 AI-Powered Retail Sales Forecasting Dashboard
-Machine Learning Task-1 | Future Interns Internship
+Machine Learning Task-1 |  Internship
 
 Project Overview
 This project focuses on building an AI-powered retail sales forecasting dashboard to help businesses analyze historical sales data, predict future sales trends, and make informed business decisions. The dashboard combines machine learning techniques, data analysis, and interactive visualizations to deliver actionable insights for retail businesses.
